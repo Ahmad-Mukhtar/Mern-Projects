@@ -3,5 +3,8 @@
     "javascript": "javascriptreact"
   },
   "eslint.rules.customizations": [],
-  "terminal.integrated.automationProfile.osx": {}
+  "terminal.integrated.automationProfile.osx": {},
+  "cSpell.words": [
+    "orignalpassword"
+  ]
 }
